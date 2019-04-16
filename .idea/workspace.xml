@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed50530-1828-4d34-86cc-c7ddc8e5f71a" name="Default Changelist" comment="" />
+    <list default="true" id="bed50530-1828-4d34-86cc-c7ddc8e5f71a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +29,7 @@
           <entry key="gitignore" value="1" />
           <entry key="graphqls" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="66" />
+          <entry key="js" value="67" />
           <entry key="json" value="4" />
           <entry key="rnc" value="1" />
         </counts>
@@ -37,7 +40,7 @@
           <entry key="GraphQL Schema" value="1" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="66" />
+          <entry key="JavaScript" value="67" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="RNG Compact" value="1" />
         </counts>
@@ -47,7 +50,7 @@
           <entry key="css" value="17" />
           <entry key="env" value="157" />
           <entry key="html" value="26" />
-          <entry key="js" value="20382" />
+          <entry key="js" value="20383" />
           <entry key="json" value="176" />
         </counts>
       </usages-collector>
@@ -57,7 +60,7 @@
           <entry key="GraphQL" value="39" />
           <entry key="HTML" value="26" />
           <entry key="JSON" value="176" />
-          <entry key="JavaScript" value="20343" />
+          <entry key="JavaScript" value="20344" />
           <entry key="PLAIN_TEXT" value="157" />
         </counts>
       </usages-collector>
@@ -119,11 +122,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
               <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/User.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -182,7 +194,6 @@
         <option value="$PROJECT_DIR$/client/src/components/Navbar.js" />
         <option value="$PROJECT_DIR$/client/src/components/Recipe/SearchItem.js" />
         <option value="$PROJECT_DIR$/client/src/components/Recipe/Search.js" />
-        <option value="$PROJECT_DIR$/models/User.js" />
         <option value="$PROJECT_DIR$/client/src/components/Profile/UserInfo.js" />
         <option value="$PROJECT_DIR$/client/src/components/LoadingError.js" />
         <option value="$PROJECT_DIR$/client/src/components/WithAuth.js" />
@@ -204,6 +215,7 @@
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/client/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/models/User.js" />
       </list>
     </option>
   </component>
@@ -226,9 +238,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-916" />
+    <option name="x" value="-1557" />
     <option name="y" value="23" />
-    <option name="width" value="916" />
+    <option name="width" value="1557" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -289,19 +301,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551482047922</updated>
-      <workItem from="1551482049038" duration="53194000" />
+      <workItem from="1551482049038" duration="53900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53194000" />
+    <option name="totallyTimeSpent" value="53900000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-916" y="23" width="916" height="1027" extended-state="0" />
+    <frame x="-1557" y="23" width="1557" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20633188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12138728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -418,13 +431,6 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/User.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -628,6 +634,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
