@@ -79,7 +79,7 @@ if(process.env.NODE_ENV === 'production') {
     });
 }
 
-const PORT = process.env.port || 4444;
+const PORT = process.env.PORT || 4444;
 
 app.listen(PORT, () => {
     console.log(`server listening on ${PORT}`)
